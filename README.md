@@ -59,3 +59,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+##.env Variables
+
+Make sure to set the following variables in your .env file:
+
+DB_CONNECTION: Set to the database connection type (e.g., mysql, sqlite, etc.).
+DB_HOST: Set to the database host address.
+DB_PORT: Set to the database port number.
+DB_DATABASE: Set to the name of the database you want to use.
+DB_USERNAME: Set to the database username.
+DB_PASSWORD: Set to the database password.
